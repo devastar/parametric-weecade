@@ -1,0 +1,31 @@
+Baton and Panel Cut Sizes - Reference
+-------------------------------------
+
+Panel lengths (all widths are 450mm)
+
+ 76mm - cp front
+170mm - cp top
+150mm - monitor
+142mm - speaker
+153mm - top
+418mm - back
+357mm - bottom
+
+Baton Lengths (batons are 15mm wide)
+
+2 x 150mm - Monitor (2x2 holes)
+2 x 112mm - Side (2x2 holes)
+2 x 140mm - Side (2x2 holes)
+2 x 420mm - Side (3 holes)
+2 x 309mm - Side (3 holes)
+2 x 145mm - Side (2 holes)
+2 x 46mm  - Side (2 holes)
+
+
+2x2 ones (so holes close)
+   ___________________________________________________________
+  /        x                                     x           /|
+ /__________________________________________________________/ |
+|                                                          |  |
+|     x                                             x      | /
+|__________________________________________________________|/
